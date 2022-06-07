@@ -9,6 +9,11 @@
 
 ## Running the app locally
 
+https://user-images.githubusercontent.com/84795217/172460485-28e9c433-f812-4e10-a81e-0c3385d4e7a1.mp4
+
+
+
+
 - The project contains all the api keys as it is
 - To run locally download/clone the repo and run
   `npm install`
