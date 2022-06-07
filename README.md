@@ -5,7 +5,7 @@
 - Built using **ReactJS** for frontend **Material UI** for styling, **NewsAPI** to fetch the news and **Alan AI** for voice commands.
 
 
-
+https://github.com/anujmittal2308/ai_news_reading_app/blob/main/live.mp4
 
 ## Running the app locally
 
