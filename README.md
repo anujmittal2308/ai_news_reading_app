@@ -20,3 +20,6 @@ https://user-images.githubusercontent.com/84795217/172460485-28e9c433-f812-4e10-
   & then
   `npm start`
   inside a terminal window.
+![image](https://user-images.githubusercontent.com/84795217/172461122-3ab8e438-e51e-4f30-937e-169997fe1fc4.png)
+https://studio.alan.app/projects/news_reader_app/scripts/news_reader_app
+![image](https://user-images.githubusercontent.com/84795217/172461410-5b832fe8-123f-4cb3-8f60-ee993cdafa61.png)
