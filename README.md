@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/84795217/172460485-28e9c433-f812-4e10-
 
 - The project contains all the api keys as it is
 - To run locally download/clone the repo and run
-  `npm install`
+  `npm i --force`
   & then
   `npm start`
   inside a terminal window.
